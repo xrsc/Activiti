@@ -7,6 +7,9 @@
   <artifactId>activiti-webapp-explorer2</artifactId>
   <packaging>war</packaging>
 
+
+
+
   <parent>
     <groupId>org.activiti</groupId>
     <artifactId>activiti-root</artifactId>
